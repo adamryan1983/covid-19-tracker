@@ -1,15 +1,15 @@
-[Visit the project site here] (https://covid-19-ar.netlify.app)
+[Visit the project site here](https://covid-19-ar.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Info
 
-I built this app using a tutorial offered by [thejavascriptmastery] (https://github.com/adrianhajdin)
+I built this app using a tutorial offered by [thejavascriptmastery](https://github.com/adrianhajdin)
 
 It involves the display of information relating to covid 19 cases both globally and by country. It was created using React, MaterialUI, html5, and CSS.
 
 
-The API used can be found [here] (https://covid19.mathdro.id/api)
+The API used can be found [here](https://covid19.mathdro.id/api)
 
 
 
